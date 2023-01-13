@@ -5,7 +5,7 @@
 * pointClouds,childParticles,vertex distortion/morphtargets,forceField,noise
 * autosimulation for graphity,force and to set Attributes OverLifeTime
 
-* **Usage**
+**Usage**
 * *ue need to use update() and updateSimulation() to make changes present in runtime!*
 * import the script ```import {Particles } from './ji-GPU-Particles';```
 * initialize the PS object with  ```const particle = new Particles()``` *u dont need to pass in any values yet!* we`re just referencing an object for later usage.
